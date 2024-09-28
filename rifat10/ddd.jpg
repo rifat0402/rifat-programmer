@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v23.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Consulting - BeDigius</title><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin/><link rel="preconnect" href="https://fonts.googleapis.com"/><style type="text/css">@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyPN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej70l0w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyPN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyPN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf) format('truetype');
+}
+</style><link rel="stylesheet" id="siteground-optimizer-combined-css-a3c36e911e1c8ca4d13b634e3f69d701" href="https://www.bedigius.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-a3c36e911e1c8ca4d13b634e3f69d701.css" media="all" />
+	<meta name="description" content="At beDigius we give great importance to the essential support of both our partners and students with our conseling." />
+	<link rel="canonical" href="https://www.bedigius.com/consulting/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Consulting - BeDigius" />
+	<meta property="og:description" content="At beDigius we give great importance to the essential support of both our partners and students with our conseling." />
+	<meta property="og:url" content="https://www.bedigius.com/consulting/" />
+	<meta property="og:site_name" content="BeDigius" />
+	<meta property="article:publisher" content="https://www.facebook.com/BeDigius" />
+	<meta property="article:modified_time" content="2022-07-15T10:24:55+00:00" />
+	<meta property="og:image" content="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-300x197.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.bedigius.com/el/consulting/","url":"https://www.bedigius.com/el/consulting/","name":"Consulting - BeDigius","isPartOf":{"@id":"https://www.bedigius.com/el/#website"},"primaryImageOfPage":{"@id":"https://www.bedigius.com/el/consulting/#primaryimage"},"image":{"@id":"https://www.bedigius.com/el/consulting/#primaryimage"},"thumbnailUrl":"https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-300x197.png","datePublished":"2022-07-14T18:32:10+00:00","dateModified":"2022-07-15T10:24:55+00:00","description":"At beDigius we give great importance to the essential support of both our partners and students with our conseling.","breadcrumb":{"@id":"https://www.bedigius.com/el/consulting/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.bedigius.com/el/consulting/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.bedigius.com/el/consulting/#primaryimage","url":"https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1.png","contentUrl":"https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1.png","width":1091,"height":717},{"@type":"BreadcrumbList","@id":"https://www.bedigius.com/el/consulting/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.bedigius.com/"},{"@type":"ListItem","position":2,"name":"Consulting"}]},{"@type":"WebSite","@id":"https://www.bedigius.com/el/#website","url":"https://www.bedigius.com/el/","name":"BeDigius","description":"Be Genius in the Digital World","publisher":{"@id":"https://www.bedigius.com/el/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.bedigius.com/el/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.bedigius.com/el/#organization","name":"beDigius","url":"https://www.bedigius.com/el/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.bedigius.com/el/#/schema/logo/image/","url":"https://www.bedigius.com/wp-content/uploads/2022/06/full1-1.png","contentUrl":"https://www.bedigius.com/wp-content/uploads/2022/06/full1-1.png","width":1448,"height":454,"caption":"beDigius"},"image":{"@id":"https://www.bedigius.com/el/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/BeDigius","https://www.instagram.com/bedigius/","https://www.linkedin.com/company/bedigius/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="BeDigius &raquo; Feed" href="https://www.bedigius.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BeDigius &raquo; Comments Feed" href="https://www.bedigius.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bedigius.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+
+
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--timeburner: timeburner;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-timeburner-font-family{font-family: var(--wp--preset--font-family--timeburner) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script id="sgr-js-extra">
+var sgr = {"sgr_site_key":"6LfjubsZAAAAAE9RgRSZz6M5dLIKj5HhAyGY3HRm"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/simple-google-recaptcha/sgr.js" id="sgr-js"></script>
+<script src="https://www.bedigius.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script src="https://www.bedigius.com/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script id="cookie-law-info-js-extra">
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#149ddc","button_1_button_hover":"#107eb0","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#ff5378","button_3_button_hover":"#cc4260","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.bedigius.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js" id="cookie-law-info-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js" id="stickyAnythingLib-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js" id="eae-iconHelper-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/sticky-header-oceanwp//main.js" id="sticky-header-oceanwp-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js" id="um-gdpr-js"></script>
+<link rel="https://api.w.org/" href="https://www.bedigius.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.bedigius.com/wp-json/wp/v2/pages/1815" /><meta name="generator" content="WordPress 6.6.2" />
+<link rel='shortlink' href='https://www.bedigius.com/?p=1815' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.bedigius.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bedigius.com%2Fconsulting%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.bedigius.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bedigius.com%2Fconsulting%2F&#038;format=xml" />
+		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+	<link rel="alternate" hreflang="en-US" href="https://www.bedigius.com/consulting/"/>
+<link rel="alternate" hreflang="el" href="https://www.bedigius.com/el/consulting/"/>
+<link rel="alternate" hreflang="en" href="https://www.bedigius.com/consulting/"/>
+<meta name="generator" content="Elementor 3.24.0; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<script>var sticky_header_style = "";</script>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style id='wp-fonts-local'>
+@font-face{font-family:timeburner;font-style:normal;font-weight:400;font-display:fallback;src:url('https://www.bedigius.com/wp-content/uploads/useanyfont/2122timeburner.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-1-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-1-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-1-1-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-1-1-300x300.png" />
+		<style id="wp-custom-css">
+			div.wpforms-container-full .wpforms-form .wpforms-submit-container{clear:inherit}@media screen and (max-width:1150px){#timerDiv{margin-left:0;position:relative}}.watupro-question-choice{width:50%}.watupro-category-header{visibility:hidden}.watupro-exam-description{display:inherit !important}.elementor-2 .elementor-element.elementor-element-785a85b .eael-wpforms .wpforms-submit-container .wpforms-submit{margin-left:35%}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#116466}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#116466}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#116466}.thumbnail:hover .link-post-svg-icon{background-color:#116466}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#116466}.widget-title{border-color:#116466}blockquote{border-color:#116466}#searchform-dropdown{border-color:#116466}.dropdown-menu .sub-menu{border-color:#116466}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#116466}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#116466}.social-widget li.oceanwp-email a:hover{border-color:#116466}#respond #cancel-comment-reply-link:hover{border-color:#116466}body .contact-info-widget.big-icons li:hover i{border-color:#116466}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#116466}blockquote,.wp-block-quote{border-left-color:#116466}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#116466}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#018289}body,.has-parallax-footer:not(.separate-layout) #main{background-color:rgba(255,255,255,0)}a{color:#116466}a .owp-icon use{stroke:#116466}a:hover{color:#00847d}a:hover .owp-icon use{stroke:#00847d}#scroll-top{bottom:69px}#scroll-top{width:48px;height:48px;line-height:48px}#scroll-top{background-color:#c9b266}#scroll-top:hover{background-color:#93804b}body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#c9b266}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active{background-color:#b2a15b}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:100px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.mobile-menu-close,.after-header-content-inner >a{line-height:100px}#site-header{border-color:#0a0a0a}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:352px}@media (max-width:768px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:268px}}@media (max-width:480px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:111px}}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:87px}@media (max-width:768px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:87px}}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#2c3531}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{color:#2c3531}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{text-shadow:10px 0 #2c3531,-10px 0 #2c3531}#site-navigation-wrap .dropdown-menu >li >a{padding:0 16px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#116466}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#116466}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#116466}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#116466}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#c9b266}.dropdown-menu .sub-menu{min-width:160px}.dropdown-menu ul li a.menu-link{color:#c9b266}.dropdown-menu ul li a.menu-link .owp-icon use{stroke:#c9b266}/* Footer Widgets CSS */#footer-widgets{padding:20px 0 0 0}#footer-widgets{background-color:#ffffff}#footer-widgets,#footer-widgets p,#footer-widgets li a:before,#footer-widgets .contact-info-widget span.oceanwp-contact-title,#footer-widgets .recent-posts-date,#footer-widgets .recent-posts-comments,#footer-widgets .widget-recent-posts-icons li .fa{color:#2c3531}#footer-widgets li,#footer-widgets #wp-calendar caption,#footer-widgets #wp-calendar th,#footer-widgets #wp-calendar tbody,#footer-widgets .contact-info-widget i,#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"],#footer-widgets .posts-thumbnails-widget li,#footer-widgets .social-widget li a{border-color:#2c3531}#footer-widgets .contact-info-widget .owp-icon{border-color:#2c3531}#footer-widgets .footer-box a,#footer-widgets a{color:#2c3531}#footer-widgets .footer-box a:hover,#footer-widgets a:hover{color:#2c3531}/* Footer Bottom CSS */#footer-bottom{background-color:#ffffff}#footer-bottom,#footer-bottom p{color:#2c3531}#footer-bottom a,#footer-bottom #footer-bottom-menu a{color:#2c3531}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#ffffff}/* Typography CSS */body{font-family:Bookman Old Style,serif}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{font-family:Ubuntu}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:Ubuntu;font-weight:500;font-style:normal;font-size:20px;letter-spacing:4.4px}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-weight:400;font-size:3 px;line-height:1.5}.sidebar-box,.footer-box{color:#a5a5a5}#footer-widgets .footer-box .widget-title{font-weight:600;color:#0a0a0a}
+</style></head>
+
+<body class="page-template-default page page-id-1815 wp-custom-logo wp-embed-responsive translatepress-en_US ehf-template-oceanwp ehf-stylesheet-oceanwp-child-theme-master oceanwp-theme dropdown-mobile no-header-border default-breakpoint content-full-screen has-fixed-footer elementor-default elementor-kit-838 elementor-page elementor-page-1815" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="minimal-header effect-three clr" data-height="100" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://www.bedigius.com/" class="custom-logo-link" rel="home"><img fetchpriority="high" width="1448" height="454" src="https://www.bedigius.com/wp-content/uploads/2022/06/full1-1.png" class="custom-logo" alt="BeDigius" decoding="async" srcset="https://www.bedigius.com/wp-content/uploads/2022/06/full1-1.png 1448w, https://www.bedigius.com/wp-content/uploads/2022/06/full1-1-300x94.png 300w, https://www.bedigius.com/wp-content/uploads/2022/06/full1-1-1024x321.png 1024w, https://www.bedigius.com/wp-content/uploads/2022/06/full1-1-768x241.png 768w" sizes="(max-width: 1448px) 100vw, 1448px" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-1398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1398"><a href="https://www.bedigius.com/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-1470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1470 nav-no-click"><a href="https://www.bedigius.com/services/" class="menu-link"><span class="text-wrap">Services<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1468"><a href="https://www.bedigius.com/services/smart-job-selection/" class="menu-link"><span class="text-wrap">Smart Job Selection</span></a></li>	<li id="menu-item-1631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="https://www.bedigius.com/services/measuring-intelligence/" class="menu-link"><span class="text-wrap">Measuring Intelligence</span></a></li>	<li id="menu-item-1469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1469"><a href="https://www.bedigius.com/services/skills-profiling/" class="menu-link"><span class="text-wrap">Skills Profiling</span></a></li></ul>
+</li><li id="menu-item-1630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="https://www.bedigius.com/services/science/" class="menu-link"><span class="text-wrap">Science</span></a></li><li id="menu-item-1818" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1815 current_page_item menu-item-1818"><a href="https://www.bedigius.com/consulting/" class="menu-link"><span class="text-wrap">Consulting</span></a></li><li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr" >
+	
+<form role="search" method="get" class="searchform" action="https://www.bedigius.com/">
+	<label for="ocean-search-form-1">
+		<span class="screen-reader-text">Search this website</span>
+		<input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
+			</label>
+	</form>
+</div><!-- #searchform-dropdown -->
+
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu"  aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Close</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+			</div><!-- #site-header-inner -->
+
+			
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1398"><a href="https://www.bedigius.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1470"><a href="https://www.bedigius.com/services/">Services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1468"><a href="https://www.bedigius.com/services/smart-job-selection/">Smart Job Selection</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="https://www.bedigius.com/services/measuring-intelligence/">Measuring Intelligence</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1469"><a href="https://www.bedigius.com/services/skills-profiling/">Skills Profiling</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="https://www.bedigius.com/services/science/">Science</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1815 current_page_item menu-item-1818"><a href="https://www.bedigius.com/consulting/" aria-current="page">Consulting</a></li>
+<li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="https://www.bedigius.com/" class="mobile-searchform" role="search">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+
+<header class="page-header">
+
+	
+	<div class="container clr page-header-inner">
+
+		
+			<h1 class="page-header-title clr" itemprop="headline">Consulting</h1>
+
+			
+		
+		
+	</div><!-- .page-header-inner -->
+
+	
+	
+</header><!-- .page-header -->
+
+
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+			<div data-elementor-type="wp-page" data-elementor-id="1815" class="elementor elementor-1815">
+						<section class="has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-874e9ed elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="874e9ed" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;wave-brush&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.5 27.8" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"/>
+	<path class="elementor-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"/>
+	<path class="elementor-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"/>
+	<path class="elementor-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"/>
+	<path class="elementor-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"/>
+	<path class="elementor-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"/>
+	<path class="elementor-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"/>
+	<path class="elementor-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"/>
+	<path class="elementor-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2cf0975" data-id="2cf0975" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-e345f57 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e345f57" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e4db1a3" data-id="e4db1a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2fa7fd6 elementor-widget elementor-widget-image" data-id="2fa7fd6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="197" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-300x197.png" class="attachment-medium size-medium wp-image-1825 lazyload" alt="" data-srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-300x197.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-1024x673.png 1024w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-768x505.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-18x12.png 18w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1.png 1091w" sizes="(max-width: 300px) 100vw, 300px" /><noscript><img decoding="async" width="300" height="197" src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-300x197.png" class="attachment-medium size-medium wp-image-1825 lazyload" alt="" srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-300x197.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-1024x673.png 1024w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-768x505.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1-18x12.png 18w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Educator_re_ju47-1.png 1091w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>													</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f18cc8b" data-id="f18cc8b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-de99e6d elementor-widget elementor-widget-text-editor" data-id="de99e6d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>At <strong>beDigius</strong> we give great importance to the essential support of both our <strong>partners</strong> and <strong>students</strong>. For this reason, users of the <strong>beDigius</strong> smart platform are supported by career guidance counseling. The career guidance counseling actively contributes to the <strong>support of our partners in order to fully utilize the advantages of the beDigius smart platform</strong>. At the same time, our partners also contribute to the more complete information of the students in order to make the right choice for their future!</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-1bff2eb elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1bff2eb" data-element_type="section" data-settings="{&quot;shape_divider_bottom&quot;:&quot;wave-brush&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.5 27.8" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"/>
+	<path class="elementor-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"/>
+	<path class="elementor-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"/>
+	<path class="elementor-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"/>
+	<path class="elementor-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"/>
+	<path class="elementor-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"/>
+	<path class="elementor-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"/>
+	<path class="elementor-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"/>
+	<path class="elementor-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d7ee75" data-id="0d7ee75" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-6b22c20 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6b22c20" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eb663b3" data-id="eb663b3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aee59a3 elementor-widget elementor-widget-text-editor" data-id="aee59a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The holistic approach of the <strong>beDigius</strong> smart platform leaves no room for anything less than full support for all users. At <strong>beDigius</strong> we <strong>train</strong> and <strong>guide</strong> our partners in order to maximize the experience of the students from the use of the platform. The support of the students is based on the method of career guidance counseling.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cd5e668" data-id="cd5e668" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b9f3f10 elementor-widget elementor-widget-image" data-id="b9f3f10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="300" height="227" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-300x227.png" class="attachment-medium size-medium wp-image-1821 lazyload" alt="" data-srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-300x227.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-768x582.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-16x12.png 16w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7.png 805w" sizes="(max-width: 300px) 100vw, 300px" /><noscript><img loading="lazy" decoding="async" width="300" height="227" src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-300x227.png" class="attachment-medium size-medium wp-image-1821 lazyload" alt="" srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-300x227.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-768x582.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7-16x12.png 16w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Visionary_technology_re_jfp7.png 805w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-f30d149 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f30d149" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;wave-brush&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.5 27.8" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M283.5,9.7c0,0-7.3,4.3-14,4.6c-6.8,0.3-12.6,0-20.9-1.5c-11.3-2-33.1-10.1-44.7-5.7	s-12.1,4.6-18,7.4c-6.6,3.2-20,9.6-36.6,9.3C131.6,23.5,99.5,7.2,86.3,8c-1.4,0.1-6.6,0.8-10.5,2c-3.8,1.2-9.4,3.8-17,4.7	c-3.2,0.4-8.3,1.1-14.2,0.9c-1.5-0.1-6.3-0.4-12-1.6c-5.7-1.2-11-3.1-15.8-3.7C6.5,9.2,0,10.8,0,10.8V0h283.5V9.7z M260.8,11.3	c-0.7-1-2-0.4-4.3-0.4c-2.3,0-6.1-1.2-5.8-1.1c0.3,0.1,3.1,1.5,6,1.9C259.7,12.2,261.4,12.3,260.8,11.3z M242.4,8.6	c0,0-2.4-0.2-5.6-0.9c-3.2-0.8-10.3-2.8-15.1-3.5c-8.2-1.1-15.8,0-15.1,0.1c0.8,0.1,9.6-0.6,17.6,1.1c3.3,0.7,9.3,2.2,12.4,2.7	C239.9,8.7,242.4,8.6,242.4,8.6z M185.2,8.5c1.7-0.7-13.3,4.7-18.5,6.1c-2.1,0.6-6.2,1.6-10,2c-3.9,0.4-8.9,0.4-8.8,0.5	c0,0.2,5.8,0.8,11.2,0c5.4-0.8,5.2-1.1,7.6-1.6C170.5,14.7,183.5,9.2,185.2,8.5z M199.1,6.9c0.2,0-0.8-0.4-4.8,1.1	c-4,1.5-6.7,3.5-6.9,3.7c-0.2,0.1,3.5-1.8,6.6-3C197,7.5,199,6.9,199.1,6.9z M283,6c-0.1,0.1-1.9,1.1-4.8,2.5s-6.9,2.8-6.7,2.7	c0.2,0,3.5-0.6,7.4-2.5C282.8,6.8,283.1,5.9,283,6z M31.3,11.6c0.1-0.2-1.9-0.2-4.5-1.2s-5.4-1.6-7.8-2C15,7.6,7.3,8.5,7.7,8.6	C8,8.7,15.9,8.3,20.2,9.3c2.2,0.5,2.4,0.5,5.7,1.6S31.2,11.9,31.3,11.6z M73,9.2c0.4-0.1,3.5-1.6,8.4-2.6c4.9-1.1,8.9-0.5,8.9-0.8	c0-0.3-1-0.9-6.2-0.3S72.6,9.3,73,9.2z M71.6,6.7C71.8,6.8,75,5.4,77.3,5c2.3-0.3,1.9-0.5,1.9-0.6c0-0.1-1.1-0.2-2.7,0.2	C74.8,5.1,71.4,6.6,71.6,6.7z M93.6,4.4c0.1,0.2,3.5,0.8,5.6,1.8c2.1,1,1.8,0.6,1.9,0.5c0.1-0.1-0.8-0.8-2.4-1.3	C97.1,4.8,93.5,4.2,93.6,4.4z M65.4,11.1c-0.1,0.3,0.3,0.5,1.9-0.2s2.6-1.3,2.2-1.2s-0.9,0.4-2.5,0.8C65.3,10.9,65.5,10.8,65.4,11.1	z M34.5,12.4c-0.2,0,2.1,0.8,3.3,0.9c1.2,0.1,2,0.1,2-0.2c0-0.3-0.1-0.5-1.6-0.4C36.6,12.8,34.7,12.4,34.5,12.4z M152.2,21.1	c-0.1,0.1-2.4-0.3-7.5-0.3c-5,0-13.6-2.4-17.2-3.5c-3.6-1.1,10,3.9,16.5,4.1C150.5,21.6,152.3,21,152.2,21.1z"/>
+	<path class="elementor-shape-fill" d="M269.6,18c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C267.7,18.8,269.7,18,269.6,18z"/>
+	<path class="elementor-shape-fill" d="M227.4,9.8c-0.2-0.1-4.5-1-9.5-1.2c-5-0.2-12.7,0.6-12.3,0.5c0.3-0.1,5.9-1.8,13.3-1.2	S227.6,9.9,227.4,9.8z"/>
+	<path class="elementor-shape-fill" d="M204.5,13.4c-0.1-0.1,2-1,3.2-1.1c1.2-0.1,2,0,2,0.3c0,0.3-0.1,0.5-1.6,0.4	C206.4,12.9,204.6,13.5,204.5,13.4z"/>
+	<path class="elementor-shape-fill" d="M201,10.6c0-0.1-4.4,1.2-6.3,2.2c-1.9,0.9-6.2,3.1-6.1,3.1c0.1,0.1,4.2-1.6,6.3-2.6	S201,10.7,201,10.6z"/>
+	<path class="elementor-shape-fill" d="M154.5,26.7c-0.1-0.1-4.6,0.3-7.2,0c-7.3-0.7-17-3.2-16.6-2.9c0.4,0.3,13.7,3.1,17,3.3	C152.6,27.5,154.6,26.8,154.5,26.7z"/>
+	<path class="elementor-shape-fill" d="M41.9,19.3c0,0,1.2-0.3,2.9-0.1c1.7,0.2,5.8,0.9,8.2,0.7c4.2-0.4,7.4-2.7,7-2.6	c-0.4,0-4.3,2.2-8.6,1.9c-1.8-0.1-5.1-0.5-6.7-0.4S41.9,19.3,41.9,19.3z"/>
+	<path class="elementor-shape-fill" d="M75.5,12.6c0.2,0.1,2-0.8,4.3-1.1c2.3-0.2,2.1-0.3,2.1-0.5c0-0.1-1.8-0.4-3.4,0	C76.9,11.5,75.3,12.5,75.5,12.6z"/>
+	<path class="elementor-shape-fill" d="M15.6,13.2c0-0.1,4.3,0,6.7,0.5c2.4,0.5,5,1.9,5,2c0,0.1-2.7-0.8-5.1-1.4	C19.9,13.7,15.7,13.3,15.6,13.2z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-801908e" data-id="801908e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-8b01d5c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8b01d5c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fc4861f" data-id="fc4861f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bd8cb61 elementor-widget elementor-widget-image" data-id="bd8cb61" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="300" height="200" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-300x200.png" class="attachment-medium size-medium wp-image-1824 lazyload" alt="" data-srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-300x200.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-768x511.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-18x12.png 18w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1.png 793w" sizes="(max-width: 300px) 100vw, 300px" /><noscript><img loading="lazy" decoding="async" width="300" height="200" src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-300x200.png" class="attachment-medium size-medium wp-image-1824 lazyload" alt="" srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-300x200.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-768x511.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1-18x12.png 18w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Solution_mindset_re_57bf-1.png 793w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>													</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-49b8b89" data-id="49b8b89" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e45f7c2 elementor-widget elementor-widget-text-editor" data-id="e45f7c2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The first counselling session (ex-ante) contributes to get the history of the student, the explanation of the operation of the <strong>beDigius</strong> smart platform and the individual tests, as well as shaping the climate of trust and cooperation.</p><p>The second and third counselling sessions (ex-post) are carried out to support the reports resulting from the completion of the tests. Our partners are able to direct the students correctly. At the same time, the students must receive the most necessary information resulting from the tests. The aim of the second and third counselling sessions is to optimally inform the students in order to support their choices.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-3133a49 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3133a49" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-110c621" data-id="110c621" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-0d2b7bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d2b7bd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9c64224" data-id="9c64224" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-859ae96 elementor-widget elementor-widget-text-editor" data-id="859ae96" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>All counselling sessions are individual and are carried out using the face-to-face (f2f) method, whether it is a class-based or a computer-based session. After all, each student is different, with different needs and different advice is required. Through the career guidance counselling, <strong>each </strong><strong>student</strong><strong> is individually supported based on their own needs</strong>!</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-922001b" data-id="922001b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-98be5c1 elementor-widget elementor-widget-image" data-id="98be5c1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="300" height="233" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-300x233.png" class="attachment-medium size-medium wp-image-1822 lazyload" alt="" data-srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-300x233.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-1024x796.png 1024w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-768x597.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-15x12.png 15w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7.png 1053w" sizes="(max-width: 300px) 100vw, 300px" /><noscript><img loading="lazy" decoding="async" width="300" height="233" src="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-300x233.png" class="attachment-medium size-medium wp-image-1822 lazyload" alt="" srcset="https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-300x233.png 300w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-1024x796.png 1024w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-768x597.png 768w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7-15x12.png 15w, https://www.bedigius.com/wp-content/uploads/2022/07/undraw_Remote_meeting_re_abe7.png 1053w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr mobile-1-col">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_4 col col-1">
+				<div id="media_image-3" class="footer-widget widget_media_image clr"><img width="1223" height="370" src="https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-2.png" class="image wp-image-1489  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-2.png 1223w, https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-2-300x91.png 300w, https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-2-1024x310.png 1024w, https://www.bedigius.com/wp-content/uploads/2022/06/LOGO-V3-C-2-768x232.png 768w" sizes="(max-width: 1223px) 100vw, 1223px" /></div>			</div><!-- .footer-one-box -->
+
+							<div class="footer-box span_1_of_4 col col-2">
+					<div id="ocean_custom_links-3" class="footer-widget widget-oceanwp-custom-links custom-links-widget clr"><h4 class="widget-title">LINKS</h4><ul class="oceanwp-custom-links"><li><a href="https://www.bedigius.com/services/smart-job-selection/" target="_blank" rel="noopener noreferrer">Smart Job Selection</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="https://www.bedigius.com/consulting/" target="_blank" rel="noopener noreferrer">Consulting</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="mailto:%20info@bedigius.com" target="_blank" rel="noopener noreferrer">Contact us</a><span class="screen-reader-text">Opens in a new tab</span></li></ul></div>				</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-3 ">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-4">
+									</div><!-- .footer-box -->
+				
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright 2022 - beDigius
+- 
+<a href='https://www.freepik.com/vectors/tiny'>Tiny vector created by pch.vector - www.freepik.com</a>			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<template id="tp-language" data-tp-language="en_US"></template>
+<div id="um_upload_single" style="display:none;"></div>
+
+<div id="um_view_photo" style="display:none;">
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close" aria-label="Close view photo modal">
+		<i class="um-faicon-times"></i>
+	</a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+</div>
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.</div><div class="cli-bar-btn_container"><a role='button' class="cli_settings_button" style="margin:0px 10px 0px 5px">Cookie settings</a><a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">ACCEPT</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+<table class="cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th class="cookielawinfo-column-1">Cookie</th><th class="cookielawinfo-column-3">Duration</th><th class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr></tbody></table>								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+								Functional							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox"  data-id="checkbox-functional" />
+									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="functional">
+								<div class="wt-cli-cookie-description">
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+								Performance							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox"  data-id="checkbox-performance" />
+									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="performance">
+								<div class="wt-cli-cookie-description">
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+								Analytics							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox"  data-id="checkbox-analytics" />
+									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="analytics">
+								<div class="wt-cli-cookie-description">
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+								Advertisement							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox"  data-id="checkbox-advertisement" />
+									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="advertisement">
+								<div class="wt-cli-cookie-description">
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+								Others							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox"  data-id="checkbox-others" />
+									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="others">
+								<div class="wt-cli-cookie-description">
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->        <div id="trp-floater-ls" onclick="" data-no-translation class="trp-language-switcher-container trp-floater-ls-names trp-bottom-left trp-color-dark flags-full-names" >
+            <div id="trp-floater-ls-current-language" class="trp-with-flags">
+
+                <a href="#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()">
+					<img class="trp-flag-image" src="https://www.bedigius.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English">English				</a>
+
+            </div>
+            <div id="trp-floater-ls-language-list" class="trp-with-flags" >
+
+                <div class="trp-language-wrap trp-language-wrap-bottom">                    <a href="https://www.bedigius.com/el/consulting/"
+                         title="Greek">
+          						  <img class="trp-flag-image" src="https://www.bedigius.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/el.png" width="18" height="12" alt="el" title="Greek">Greek					          </a>
+                <a href="#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()"><img class="trp-flag-image" src="https://www.bedigius.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English">English</a></div>            </div>
+        </div>
+
+    			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			
+<script id="email-subscribers-js-extra">
+var es_data = {"messages":{"es_empty_email_notice":"Please enter email address","es_rate_limit_notice":"You need to wait for some time before subscribing again","es_single_optin_success_message":"Successfully Subscribed.","es_email_exists_notice":"Email Address already exists!","es_unexpected_error_notice":"Oops.. Unexpected error occurred.","es_invalid_email_notice":"Invalid email address","es_try_later_notice":"Please try after some time"},"es_ajax_url":"https:\/\/www.bedigius.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js" id="email-subscribers-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js" id="siteground-optimizer-lazy-sizes-js-js"></script>
+<script id="stickThis-js-extra">
+var sticky_anything_engage = {"element":"","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js" id="stickThis-js"></script>
+<script id="eae-main-js-extra">
+var eae = {"ajaxurl":"https:\/\/www.bedigius.com\/wp-admin\/admin-ajax.php","current_url":"aHR0cHM6Ly93d3cuYmVkaWdpdXMuY29tL2NvbnN1bHRpbmcv","nonce":"aca19dcfc5","plugin_url":"https:\/\/www.bedigius.com\/wp-content\/plugins\/addon-elements-for-elementor-page-builder\/"};
+var eae_editor = {"plugin_url":"https:\/\/www.bedigius.com\/wp-content\/plugins\/addon-elements-for-elementor-page-builder\/"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js" id="eae-main-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js" id="eae-index-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js" id="font-awesome-4-shim-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js" id="animated-main-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js" id="eae-particles-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js" id="wts-magnific-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js" id="vegas-js"></script>
+<script defer src="https://www.bedigius.com/wp-includes/js/imagesloaded.min.js" id="imagesloaded-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"28dcf53637","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/www.bedigius.com\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"89548d0820"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/theme.min.js" id="oceanwp-main-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js" id="oceanwp-drop-down-search-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js" id="ow-magnific-popup-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js" id="oceanwp-lightbox-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js" id="ow-flickity-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js" id="oceanwp-slider-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js" id="oceanwp-scroll-effect-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/scroll-top.min.js" id="oceanwp-scroll-top-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/select.min.js" id="oceanwp-select-js"></script>
+<script id="flickr-widget-script-js-extra">
+var flickrWidgetParams = {"widgets":[]};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js" id="flickr-widget-script-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/watupro/modules/reports/js/event-tracker.js" id="watupro-tracker-js"></script>
+<script id="eael-general-js-extra">
+var localize = {"ajaxurl":"https:\/\/www.bedigius.com\/wp-admin\/admin-ajax.php","nonce":"cc1ee2ee04","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/www.bedigius.com\/consulting\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js" id="eael-general-js"></script>
+<script defer src="https://www.bedigius.com/wp-includes/js/underscore.min.js" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script defer src="https://www.bedigius.com/wp-includes/js/wp-util.min.js" id="wp-util-js"></script>
+<script src="https://www.bedigius.com/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script src="https://www.bedigius.com/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.min.js" id="um_tipsy-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/um-confirm/um-confirm.min.js" id="um_confirm-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/picker.min.js" id="um_datetime-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/picker.date.min.js" id="um_datetime_date-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/picker.time.min.js" id="um_datetime_time-js"></script>
+<script id="um_common-js-extra">
+var um_common_variables = {"locale":"en_US"};
+var um_common_variables = {"locale":"en_US"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/common.min.js" id="um_common-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/cropper/cropper.min.js" id="um_crop-js"></script>
+<script id="um_frontend_common-js-extra">
+var um_frontend_common_variables = [];
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/common-frontend.min.js" id="um_frontend_common-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js" id="um_modal-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/jquery-form/jquery-form.min.js" id="um_jquery_form-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/fileupload/fileupload.js" id="um_fileupload-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js" id="um_functions-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js" id="um_responsive-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js" id="um_conditional-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/select2/select2.full.min.js" id="select2-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/select2/i18n/en.js" id="um_select2_locale-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.min.js" id="um_raty-js"></script>
+<script id="um_scripts-js-extra">
+var um_scripts = {"max_upload_size":"268435456","nonce":"a20ee1d6ef"};
+</script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js" id="um_scripts-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js" id="um_profile-js"></script>
+<script defer src="https://www.bedigius.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js" id="um_account-js"></script>
+<!--[if lt IE 9]>
+<script src="https://www.bedigius.com/wp-content/themes/oceanwp/assets/js/third/html5.min.js" id="html5shiv-js"></script>
+<![endif]-->
+<script src="https://www.bedigius.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.bedigius.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script src="https://www.bedigius.com/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.24.0","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/www.bedigius.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.bedigius.com\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"cdbbb7b092"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1815,"title":"Consulting%20-%20BeDigius","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://www.bedigius.com/wp-content/plugins/elementor/assets/js/frontend.min.js" id="elementor-frontend-js"></script>
+		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery('input[name="um_request"]').val('');
+			});
+		</script>
+	    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="ylYKajnQvcAXdFxU" value="B@n8r0KeI_v" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="SFOUatTmj-H" value="AU@6IT*_wzfd" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="ylYKajnQvcAXdFxU" value="B@n8r0KeI_v" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="SFOUatTmj-H" value="AU@6IT*_wzfd" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("ylYKajnQvcAXdFxU", "B@n8r0KeI_v");
+data.data.append("SFOUatTmj-H", "AU@6IT*_wzfd");
+                    }
+                    else {
+                        data.data = data.data + '&ylYKajnQvcAXdFxU=B@n8r0KeI_v&SFOUatTmj-H=AU@6IT*_wzfd';
+                    }
+                }
+            });
+
+        });
+    </script>
+	</body>
+</html>
